@@ -1,0 +1,5 @@
+.venv/
+__pycache__
+export_axia/node_modules
+export_axia/downloads
+.env
