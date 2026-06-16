@@ -1,4 +1,4 @@
-# Nizar Project
+# Analytics Project
 
 A small automation project that downloads Excel exports from EasyBee, transforms the data with Python, and inserts the cleaned dataset into a MySQL database. It also includes a local Metabase/Postgres compose setup for analytics.
 
